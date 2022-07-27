@@ -1,5 +1,5 @@
 # ios-atividade3
-Atividade para matéria de desenvolvimento IOS - Faculdade Unyleya
+Atividade para disciplina de desenvolvimento IOS - Faculdade Unyleya
 
 Nome: Luiz Gustavo Ventura
 
