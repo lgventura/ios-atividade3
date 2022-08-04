@@ -9,7 +9,7 @@
         <!--Photo Tagger-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="PhotoTagger" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOS_Atividade3" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -70,7 +70,7 @@
         <!--Results-->
         <scene sceneID="Sav-Yt-kAd">
             <objects>
-                <viewController id="Qvt-SZ-saO" customClass="TagsColorsViewController" customModule="PhotoTagger" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Qvt-SZ-saO" customClass="TagsColorsViewController" customModule="IOS_Atividade3" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="LHE-yS-HTN"/>
                         <viewControllerLayoutGuide type="bottom" id="Xg4-Mk-usj"/>
@@ -127,7 +127,7 @@
         <!--Tags Colors Table View Controller-->
         <scene sceneID="TYg-fg-ud8">
             <objects>
-                <tableViewController id="ao7-DE-E3A" customClass="TagsColorsTableViewController" customModule="PhotoTagger" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="ao7-DE-E3A" customClass="TagsColorsTableViewController" customModule="IOS_Atividade3" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" allowsSelection="NO" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="Dnn-2d-TR8">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="492"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

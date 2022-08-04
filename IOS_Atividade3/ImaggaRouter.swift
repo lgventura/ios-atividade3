@@ -1,6 +1,6 @@
 //
 //  ImaggaRouter.swift
-//  PhotoTagger
+//  IOS_Atividade3
 //
 //  Created by Yi Gu on 8/4/16.
 //  Copyright © 2016 Razeware LLC. All rights reserved.
